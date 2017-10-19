@@ -1,0 +1,92 @@
+In the information age, the barriers [to entry into programming] just aren't
+there. The barriers are self imposed. If you want to set off and go develop
+some grand new thing, you don't need millions of dollars of capitalization. You
+need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to
+work on, and the dedication to go through with it. We slept on floors.
+We waded across rivers.
+
+- John Carmack
+  Masters of Doom: How Two Guys Created an Empire
+  and Transformed Pop Culture
+%
+The speed of light sucks.
+
+- John Carmack on network latency
+%
+Programming is really just the mundane aspect of expressing a solution
+to a problem. There are talents that are specifically related to actually
+coding, but the real issue is being able to grasp problems and devise solutions
+that are detailed enough to actually be coded.
+
+- John Carmack
+  Slashdot interview
+  October 15, 1999
+%
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+
+- Donald Knuth
+  Notes on the van Emde Boas construction of priority deques:
+  An instructive use of recursion (1977)
+%
+The reason is not to glorify "bit chasing"; a more fundamental issue is at
+stake here: Numerical subroutines should deliver results that satisfy simple,
+useful mathematical laws whenever possible. [...] Without any underlying
+symmetry properties, the job of proving interesting results becomes
+extremely unpleasant. The enjoyment of one's tools is an essential ingredient
+of successful work.
+
+- Donald Knuth
+  The Art Of Computer Programming
+  Vol. II, Seminumerical Algorithms
+%
+I had a running compiler and nobody would touch it. ... They carefully told me,
+computers could only do arithmetic; they could not do programs.
+
+- Grace Hopper
+  Implementor of the first computer programming language compiler in 1952
+  Grace Hopper: Navy Admiral and Computer Pioneer (1989)
+%
+The Feynman Algorithm:
+
+1. Write down the problem.
+2. Think real hard.
+3. Write down the solution.
+
+- As suggested by Murray Gell-Mann
+%
+There is a computer disease that anybody who works with computers knows about.
+It's a very serious disease and it interferes completely with the work. The
+trouble with computers is that you 'play' with them!
+
+- Richard Feynman
+%
+A man provided with paper, pencil, and rubber, and subject to strict
+discipline, is in effect a universal machine.
+
+- Alan Turing
+%
+We can only see a short distance ahead, but we can see plenty there that needs
+to be done.
+
+- Alan Turing
+%
+The competent programmer is fully aware of the strictly limited size of his
+own skull; therefore he approaches the programming task in full humility, and
+among other things he avoids clever tricks like the plague.
+
+- Edsger Dijkstra
+  The Humble Programmer
+%
+Don't blame me for the fact that competent programming, as I view it as an
+intellectual possibility, will be too difficult for "the average programmer" —
+you must not fall into the trap of rejecting a surgical technique because it
+is beyond the capabilities of the barber in his shop around the corner.
+
+- Edsger Dijkstra
+  Comments from a symposium, 1975
+%
+We are the masters. They are the slaves.
+
+- Yukihiro Matsumoto
+  Creator of the Ruby language
+  On man-machine interactions and programming languages
